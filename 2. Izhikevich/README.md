@@ -1,0 +1,1 @@
+Izhikevich neuron model.
